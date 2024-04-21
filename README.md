@@ -1,4 +1,4 @@
-# DeCoupons
+# CouponStack
 
 Deployed to Scroll at 0x64280006026cFBf45d2A594594c87717f64dFe7E
 
