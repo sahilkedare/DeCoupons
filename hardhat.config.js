@@ -10,10 +10,9 @@ module.exports = {
     hardhat: {
       chainId: 1337,
     },
-    arbitrum: {
-      url: `https://stylus-testnet.arbitrum.io/rpc`,
-      accounts: [],
-      chainId: 23011913,
+    arbitrum_sepolia: {
+      url: `https://sepolia-rollup.arbitrum.io/rpc`,
+      chainId: 421614,
     },
   },
 };
