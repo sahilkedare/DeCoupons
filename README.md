@@ -1,6 +1,6 @@
 # CouponStack
 
-Deployed to Scroll at 0x64280006026cFBf45d2A594594c87717f64dFe7E
+Deployed to Arbitrum at 0x50D1Ff72Cb68d19d076B9be616EfF3b8be301026
 
 Get visibility and start marketing by providing coupons based on users on-chain activity. 
 
